@@ -1,0 +1,16 @@
+Flag is 0 
+Number of points is 2048 
+Number of trials is 10 
+Two dimension.
+trial 0 sum: 29.5215
+trial 1 sum: 29.8834
+trial 2 sum: 29.7434
+trial 3 sum: 29.6678
+trial 4 sum: 29.5642
+trial 5 sum: 29.8652
+trial 6 sum: 29.7553
+trial 7 sum: 29.7376
+trial 8 sum: 29.8707
+trial 9 sum: 29.7823
+average sum: 29.7391
+0 seconds during operation.
